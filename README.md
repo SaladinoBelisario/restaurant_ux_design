@@ -1,3 +1,23 @@
+# Restaurant Landing Page
+## [Live Site](https://compan.restaurant/)
+
+## Captures
+![Introduction to the site](./captures/Screenshot_1.png "Intro")
+![Menu of the day](./captures/Screenshot_2.png "Menu")
+![About the chef](./captures/Screenshot_3.png "Chef")
+![Laurels awarded](./captures/Screenshot_4.png "Laurels")
+![Food Gallery](./captures/Screenshot_5.png "Gallery")
+
+## Objectives for learning
+
+- React Functional components and their reusability
+- React file and folder structure
+- Fundamental CSS properties to master flex & grid
+- Fundamentals of the CSS BEM Model
+- From soft and pleasant animations to complex gradients
+- Perfectly placed media queries for satisfactory responsiveness covering almost devices
+- How to deploy your websites to a Server (GitHub pages)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
