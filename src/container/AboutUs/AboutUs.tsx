@@ -24,7 +24,7 @@ const AboutUs = () => (
             <div className="app__aboutus-content_history">
                 <h1 className="headtext__cormorant">Our History</h1>
                 <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-                <p className="p__opensans">Aj Fermi wanted to create a food institution, he was inspired by the 57-year-old
+                <p className="p__opensans">Kevin Luo wanted to create a food institution, he was inspired by the 57-year-old
                                             family recipes and created his own instant classic.</p>
                 <button type="button" className="custom__button">Know More</button>
             </div>
